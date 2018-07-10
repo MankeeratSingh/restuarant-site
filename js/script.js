@@ -25,7 +25,7 @@ var dc = {};
 
 var homeHtml = "snippets/home-snippet.html";
 var allCategoriesUrl =
-  "/a.html";
+  "https://mankeeratsingh.github.io/C/index.txt";
 var categoriesTitleHtml = "snippets/categories-title-snippet.html";
 var categoryHtml = "snippets/category-snippet.html";
 var menuItemsUrl =
