@@ -372,3 +372,29 @@ h3.menu-item-title {
 }
 
 
+.l{
+
+text-align: center;
+justify-content: center;
+text-shadow: green;
+font-style: bold;
+font-size: 35px;
+margin-top:40px;
+
+
+}
+#xy{
+  font-size: 23px; font-style:italic;
+    margin-top: 12px;
+}
+
+#e{
+  width: 100%;
+  align-content: center;
+  height: 150px;
+
+}
+
+
+
+
